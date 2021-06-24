@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Tully-cmd's Github Page
 
-You can use the [editor on GitHub](https://github.com/Tully-cmd/tully-cmd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm sure there will be something great on here.. soon.. :eyes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Reading List
 
-### Markdown
+* C# 9 and .NET 5 - Modern Cross-Platform Development
+  * [Amazon](https://www.amazon.com/NET-Cross-Platform-Development-intelligent-Framework-dp-180056810X/dp/180056810X/ref=dp_ob_title_bk)
+* Data Science from Scratch: First Principles with Python
+  * [Amazon](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_1?crid=1XJ1W48CD4DRL&dchild=1&keywords=data+science+from+scratch&qid=1624509015&s=books&sprefix=data+science+from+s%2Cstripbooks%2C229&sr=1-1)
+* WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL
+  * [Amazon](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920/ref=sr_1_1?dchild=1&keywords=WebGl&qid=1624509130&s=books&sr=1-1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Collaborations? 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tully-cmd/tully-cmd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Looking to collaborate with someone on a trading algorithm.
+[r/algotrading](https://www.reddit.com/r/algotrading/) To find out more.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you somehow found this page organically and want to get in contact email me. 
